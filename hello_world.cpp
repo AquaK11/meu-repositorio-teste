@@ -36,4 +36,6 @@ int main() {
 		//em C++
 		cout << endl << "(Em C++)" << endl << "Ol�,Mundo!" << endl << "Hello,World!" << endl << "�Hola,Mundo!";
 	}
+
+	#Adicionando comentário para não ter que mudar algo de fato
 }
